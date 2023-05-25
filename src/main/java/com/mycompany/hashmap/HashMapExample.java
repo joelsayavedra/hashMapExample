@@ -12,7 +12,7 @@ import java.util.HashMap;
  */
 public class HashMapExample {
     public static void main(String[] args) {
-        String pais = "Colombia";
+        String pais = "Peru";
 
         final Chile paisChile = new Chile();
         final Colombia paisColombia = new Colombia();
